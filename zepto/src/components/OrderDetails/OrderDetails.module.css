@@ -1,0 +1,32 @@
+.orders-container {
+  display: flex;
+  margin: 35px 70px;
+  border: 1px solid gray;
+  border-radius: 8px;
+  margin-top: 120px;
+}
+
+.order-details-container {
+  padding: 20px;
+  width: 70%;
+  height: 440px;
+  overflow: auto;
+}
+
+.back-link {
+  /* display: flex;
+        align-items: flex-start;
+        justify-content: flex-start; */
+  color: black;
+  padding: 10px 14px 7px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+
+.delivered-descr {
+  background-color: aquamarine;
+  padding: 3px 10px;
+  border-radius: 5px;
+  color: #fff;
+}

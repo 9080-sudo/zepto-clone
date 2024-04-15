@@ -1,0 +1,10 @@
+.list-of-categories{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px 15px;
+    list-style-type: none;
+}
+
+.m-top{
+    margin-top: 100px;
+}

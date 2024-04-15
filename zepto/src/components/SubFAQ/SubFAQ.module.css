@@ -1,0 +1,43 @@
+.sub-faq-container {
+  padding: 20px;
+  width: 70%;
+  height: 440px;
+  overflow: auto;
+}
+
+.back-link {
+  /* display: flex;
+      align-items: flex-start;
+      justify-content: flex-start; */
+  color: black;
+  padding: 10px 14px 7px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.question{
+    margin-top: 30px;
+}
+
+.answer{
+    margin-top: 12px;
+}
+
+.line{
+    border: 1px solid rgb(247, 242, 242);
+    margin-top: 30px;
+}
+
+.urgent-question{
+    margin-top: 15px;
+}
+
+.email-para{
+    margin-top: 12px;
+}
+
+.email{
+    color: #ff3269;
+    font-weight: 500;
+    cursor: pointer;
+}

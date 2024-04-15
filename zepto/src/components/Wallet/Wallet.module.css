@@ -1,0 +1,21 @@
+.wallet-container {
+  display: flex;
+  margin: 35px 70px;
+  border: 1px solid gray;
+  border-radius: 8px;
+  margin-top: 120px;
+}
+
+.money-details-container {
+  padding: 20px;
+  width: 70%;
+  overflow: auto;
+  height: 400px;
+}
+
+.gradient {
+  width: 100%;
+  background-image: linear-gradient(to right, #3c006b, #8c1d71);
+  height: 15vh;
+  /* box-shadow: 0px 2px  5px black; */
+}

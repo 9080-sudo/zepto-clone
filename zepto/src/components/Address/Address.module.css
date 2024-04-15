@@ -1,0 +1,50 @@
+.address-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 30px;
+}
+
+.address-name-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.address-name{
+    margin-left: 10px;
+    color: #98909b;
+    font-size: 14px;
+}
+
+.address-label{
+    margin-left: 10px;
+}
+
+.location-icon{
+    color: #40046d;
+    font-size: 25px;
+}
+
+.address-edit-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.edit-icon{
+    font-size: 25px;
+    margin-right: 10px;
+    cursor: pointer;
+    color: #928a99;
+}
+
+.delete-icon{
+    font-size: 25px;
+    cursor: pointer;
+    color: #928a99;
+}
+
+.line{
+    margin: 8px 30px;
+}

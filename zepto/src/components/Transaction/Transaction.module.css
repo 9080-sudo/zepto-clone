@@ -1,0 +1,53 @@
+.transaction-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 10px;
+    box-shadow: 0 2px 11.4286px rgba(0, 0, 0, .08);
+}
+
+.transaction-details-container{
+    display: flex;
+    align-items: center;
+}
+
+.gift-icon{
+    font-size: 30px;
+    color: #40066e;
+}
+
+.transation-name-container{
+    margin-left: 10px;
+}
+
+.transaction-name{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.transaction-time{
+    color: #8a96a7;
+    font-size: 12px;
+    margin-top: 3px;
+}
+
+.money{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.credit{
+    color: #4bde81;
+}
+
+.debit{
+    color: rgb(234, 12, 12);
+}
+
+.expiry-date{
+    color: #b4bcc7;
+    font-size: 12px;
+}

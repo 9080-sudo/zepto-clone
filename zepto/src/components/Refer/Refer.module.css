@@ -1,0 +1,94 @@
+.refer-container{
+    margin: 15px;
+    background-image: linear-gradient(180deg, #8b4fed, #4935c8, #8b4fed, #fff, #fff);
+    /* width: 75%; */
+}
+
+.get-amount{
+    color: #ffffff;
+}
+
+.name-image-container{
+    position: relative;
+    padding: 10px;
+}
+
+.referral-hand-image{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.how-it-works-container{
+    margin: 30px 15px;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.list-of-instructions{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    position: relative;
+}
+
+.instruction{
+    display: flex;
+    align-items: center;
+    margin: 10px 0px;
+    z-index: 1;
+}
+
+.instruction-para{
+    margin-left: 15px;
+}
+
+.highlight-span{
+    font-weight: 600;
+}
+
+.line{
+    position: absolute;
+    left: 8px;
+    top: 13px;
+    width: 1px;
+    background-color: #958e9a;
+    height: 99px;
+}
+
+.whatsapp-link{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.invite-via-whatsapp{
+    margin-left: 10px;
+    font-weight: 500;
+}
+
+.share-btn{
+    width: 100%;
+    background-color: #fff;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.share-invite-link{
+    margin-left: 10px;
+    font-weight: 500;
+}

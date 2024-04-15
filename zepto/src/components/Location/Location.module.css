@@ -1,0 +1,54 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 2;
+}
+
+.modal-content {
+  background-color: #fff;
+  /* padding: 20px; */
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  position: relative;
+  top: 80px;
+  left: 80px;
+  width: 450px;
+}
+
+.location-container{
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.location-icon{
+    font-size: 50px;
+    margin-right: 10px;
+}
+
+.location-input-container{
+    margin: 14px 0px;
+}
+
+.location-input{
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    outline: none;
+    border: 1px solid black;
+}
+
+.submit-location{
+    background-color: #f23a6e;
+    padding: 10px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+}

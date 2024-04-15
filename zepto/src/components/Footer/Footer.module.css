@@ -1,0 +1,66 @@
+.footer-container{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    padding: 5px 15px;
+}
+
+.footer-sub-container{
+    width: 25%;
+    flex-shrink: 0;
+}
+
+.zepto-logo{
+    width: 100px;
+    height: 50px;
+}
+
+.icons-container{
+    display: flex;
+    align-items: center;
+}
+
+.icon-link{
+    flex-shrink: 0;
+    width: 40px;
+    text-decoration: none;
+    color: #9a939e;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    margin: 5px 0px;
+}
+
+.icon{
+    font-size: 23px;
+}
+
+.copy-right{
+    font-size: 14px;
+    color: #9a939e;
+    margin-top: 10px;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+}
+
+.get-app{
+    display: flex;
+    align-items: center;
+    width: 60%;
+    justify-content: center;
+    border: 1px solid #dad7da;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0px;
+    text-decoration: none;
+    color: black;
+}
+
+.get-app-text{
+    margin-left: 5px;
+}

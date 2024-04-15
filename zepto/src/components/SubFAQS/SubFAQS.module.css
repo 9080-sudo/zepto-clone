@@ -1,0 +1,47 @@
+.sub-faqs-container {
+  padding: 20px;
+  width: 70%;
+  height: 440px;
+  overflow: auto;
+}
+
+.back-link {
+  /* display: flex;
+    align-items: flex-start;
+    justify-content: flex-start; */
+  color: black;
+  padding: 10px 14px 7px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.heading {
+  margin-top: 18px;
+}
+
+.list-of-subfaqs {
+  list-style-type: none;
+  margin-top: 15px;
+}
+
+.subfaq {
+  padding: 20px 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-decoration: none;
+  color: black;
+}
+
+.subfaq-descr {
+  font-weight: 400;
+}
+
+.right-arrow-icon {
+  font-size: 20px;
+  color: #ff3269;
+}
+
+.line {
+  border: 1px solid rgb(247, 242, 242);
+}

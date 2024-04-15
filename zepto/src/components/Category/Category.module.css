@@ -1,0 +1,11 @@
+.list-item{
+    padding: 10px;
+    height: 200px;
+    width: 150px;
+}
+
+.specific-list-item{
+    padding: 10px;
+    width: 300px;
+    height: 200px;
+}

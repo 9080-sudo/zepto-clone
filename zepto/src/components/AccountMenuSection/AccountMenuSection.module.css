@@ -1,0 +1,58 @@
+.side-container{
+    width: 320px;
+    background-color: #3c006b;
+    color: #fff;
+    padding: 12px 20px;
+    border-radius: 8px 0px 0px 8px;
+}
+
+.email{
+    color: #a7a7a7;
+    margin: 5px 0px 12px 0px;
+    font-weight: 700;
+}
+
+.hr-line{
+    margin-bottom: 10px;
+    margin-top: 5px;
+    border: 1px solid #fff;
+}
+
+.specific-section{
+    display: flex;
+    align-items: center;
+    padding: 14px 14px 14px 5px;
+    border: 10px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.specific-section-icon{
+    width: 50px;
+    font-weight: bold;
+}
+
+.specific-section-description{
+    font-weight: 500;
+    font-size: 16px;
+}
+
+
+.logout-btn-container{
+    text-align: center;
+}
+
+.logout-btn{
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px;
+}
+
+.active-link{
+    color: #3c006b;
+    background-color: #fff;
+    border-radius: 8px;
+}

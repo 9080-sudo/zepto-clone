@@ -1,0 +1,52 @@
+.product{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.name-img-qty-container{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.image{
+    height: 80px;
+    width: 80px;
+}
+
+.name-qty-container{
+    margin-left: 10px;
+}
+
+.descr-qty-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 12px;
+    color: #978f9e;
+    margin-top: 5px;
+}
+
+.name{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.box{
+    width: 5px;
+    height: 5px;
+    background-color: #978f9e;
+    margin: 0px 5px;
+    border-radius: 50%;
+}
+
+.price{
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.line{
+    margin: 10px 0px;
+}

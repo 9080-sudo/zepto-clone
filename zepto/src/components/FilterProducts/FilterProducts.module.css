@@ -1,0 +1,19 @@
+.no-products{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 95vh;
+}
+
+.filter-products-container{
+    /* margin-top: 60px; */
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.m-top{
+    margin-top: 100px;
+}

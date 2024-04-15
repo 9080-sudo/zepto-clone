@@ -1,0 +1,15 @@
+.cart-without-login-container{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.please-login-heading{
+
+}
+
+.please-login-para{
+    margin-top: 8px;
+}

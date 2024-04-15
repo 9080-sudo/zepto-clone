@@ -1,0 +1,13 @@
+.products-for-you-name-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 15px;
+}
+
+.see-all-link {
+  color: #ff326b;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}

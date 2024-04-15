@@ -1,0 +1,27 @@
+.categories-links-container {
+  padding: 15px;
+}
+
+.categories-links {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.category-link-item {
+  width: 20%;
+  flex-shrink: 0;
+  flex-grow: 0;
+  margin-top: 10px;
+}
+
+.category-link {
+  text-decoration: none;
+  color: black;
+}
+
+.line {
+  border: 1px solid #f1f1f8;
+  margin: 15px 0px;
+}

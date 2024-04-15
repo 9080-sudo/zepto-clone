@@ -1,0 +1,22 @@
+.recent-search{
+    margin-top: 100px;
+    padding: 10px;
+}
+
+.recent-search-list{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+    margin: 10px 0px;
+    flex-wrap: wrap;
+}
+
+.search{
+    background-color: #ede7f1;
+    margin-right: 10px;
+    border-radius: 15px;
+    padding: 2px 8px 5px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}

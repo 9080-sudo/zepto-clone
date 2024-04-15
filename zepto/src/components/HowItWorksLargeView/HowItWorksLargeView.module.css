@@ -1,0 +1,11 @@
+.how-it-works-container{
+    display: flex;
+    justify-content: center;
+    /* align-items: flex-start; */
+
+}
+
+.heading{
+    text-align: center;
+    margin: 15px 0px;
+}

@@ -1,0 +1,53 @@
+.order-container {
+  padding: 15px;
+  box-shadow: 0 2px 11.4286px rgba(0, 0, 0, 0.08);
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.order-details-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 600;
+}
+
+.ordered-date-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 15px;
+}
+
+.order-name {
+  width: 75%;
+}
+
+.order-id {
+  color: #84909f;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.order-date-time {
+  color: #84909f;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.delivered-descr {
+  padding: 3px 10px;
+  border-radius: 5px;
+}
+
+
+.bg-yellow{
+  background-color: yellow;
+}
+
+.bg-green{
+  background-color: aquamarine;
+}

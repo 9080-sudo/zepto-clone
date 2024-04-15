@@ -1,0 +1,11 @@
+.heading{
+    margin-top: 100px;
+    margin-left: 10px;
+}
+
+.products-for-you-container{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}

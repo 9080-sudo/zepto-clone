@@ -1,0 +1,75 @@
+.money-details-container{
+    margin: 0px 50px;
+    margin-top: -10px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 1px 1px 5px gray;
+}
+
+.cash{
+    font-size: 40px;
+    font-weight: bold;
+    color: #4c1577;
+}
+
+.balance-descr-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 10px;
+    color: #4c1577;
+}
+
+.balance-descr{
+    font-weight: 500;
+    margin-right: 10px;
+}
+
+.circle-info{
+    
+}
+
+.money-container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.money{
+    align-self: flex-start;
+}
+
+.wallet-icon{
+    height: 100px;
+    width: 130px;
+}
+
+.line{
+    margin: 10px 0px;
+}
+
+.redeem-voucher-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.redeem-voucher-description{
+    display: flex;
+    align-items: center;
+}
+
+.redeem-v{
+    margin-left: 5px;
+}
+
+.redeem-icon{
+    font-size: 20px;
+    color: #754a95;
+}
+
+.right-arrow-icon{
+    font-size: 20px;
+}

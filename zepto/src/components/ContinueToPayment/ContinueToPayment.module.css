@@ -1,0 +1,26 @@
+.change-location-btn{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #fff;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer;
+    color: #ff3269;
+}
+
+.change-text{
+    margin-left: 5px;
+    font-weight: 600;
+}
+
+.continue-to-payment-btn{
+    width: 100%;
+    margin-top: 10px;
+    background-color: #ff3269;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}

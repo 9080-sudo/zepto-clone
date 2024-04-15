@@ -1,0 +1,49 @@
+.price-container{
+    background-color: #ffffff;
+    /* padding: 30px 10px; */
+    /* border-radius: 5px; */
+    /* margin: 0px 10px; */
+    /* box-shadow: 1px 1px 2px gray; */
+    /* width: 400px; */
+}
+
+.specific-price-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 3px 0px;
+}
+
+.font-s{
+    font-size: 13px;
+}
+
+.price-description{
+    color: #b6b6b6;
+}
+
+.price-before-cut{
+    color: #b6b6b6;
+    text-decoration: line-through;
+}
+
+.price-after-cut{
+    margin-left: 5px;
+}
+
+.color-green{
+    color: #6ad495;
+}
+
+.font-c{
+    color: #b6b6b6;;
+}
+
+.total-price{
+    font-weight: 500;
+}
+
+.hr-line{
+    margin: 15px 0px;
+    /* border: 1px solid gray; */
+    /* padding: 2px; */
+}

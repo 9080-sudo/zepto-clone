@@ -1,0 +1,30 @@
+.order-id-time-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 20px;
+}
+
+.order-id {
+  color: #a39da7;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.order-time {
+  color: #a39da7;
+  font-size: 12px;
+}
+
+.delivered-descr {
+  padding: 3px 10px;
+  border-radius: 5px;
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+.bg-green {
+  background-color: aquamarine;
+}

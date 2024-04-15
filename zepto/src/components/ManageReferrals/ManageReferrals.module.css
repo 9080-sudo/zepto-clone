@@ -1,0 +1,13 @@
+.referrals-container {
+  display: flex;
+  margin: 35px 70px;
+  border: 1px solid gray;
+  border-radius: 8px;
+  margin-top: 120px;
+}
+
+.refer-referrals-container {
+  width: 72%;
+  height: 440px;
+  overflow: auto;
+}

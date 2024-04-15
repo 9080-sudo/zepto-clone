@@ -1,0 +1,21 @@
+.orders-container{
+    /* margin-top: 8; */
+    display: flex;
+    margin: 35px 70px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    margin-top: 120px;
+}
+
+.show-orders-container{
+    width: 75%;
+    height: 440px;
+    overflow: auto;
+}
+
+.orders{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 15px;
+}

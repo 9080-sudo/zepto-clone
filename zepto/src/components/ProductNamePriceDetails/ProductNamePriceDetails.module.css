@@ -1,0 +1,73 @@
+.name {
+  margin: 8px 0px;
+}
+
+.description {
+  margin: 8px 0px;
+  color: #88828e;
+}
+
+.money {
+  display: flex;
+  align-items: center;
+  margin: 20px 0px;
+}
+
+.sale-price {
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+.actual-price {
+  margin-right: 13px;
+  color: #807986;
+  text-decoration: line-through;
+}
+
+.discount {
+  background-image: linear-gradient(180deg, #63078d 0%, #ae00ff 100%);
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.line {
+  border-color: #edecee;
+}
+
+.add-btn {
+  background-color: #ff3269;
+  color: #fff;
+  width: 115px;
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  font-weight: 600;
+  margin: 30px 0px;
+  cursor: pointer;
+}
+
+.change-quantity-container {
+  background-color: #ff3269;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  padding: 12px;
+  width: 115px;
+  justify-content: space-between;
+  border-radius: 5px;
+  margin: 50px 0px 30px 0px;
+}
+
+.change-quantity-btn {
+  color: #fff;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.line {
+    border: 1px solid #f1f1f8;
+}

@@ -1,0 +1,38 @@
+.delivery-partner-tip-container {
+  background-color: #ffffff;
+  width: 620px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 2px gray;
+  margin: 10px 0px;
+}
+
+.sending-amount{
+    color: #bfbbc2;
+    font-size: 14px;
+    margin-top: 8px;
+}
+
+.list-of-tips{
+    list-style-type: none;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 13px;
+    cursor: pointer;
+}
+
+.tip{
+    display: flex;
+    align-items: center;
+    padding: 5px 15px;
+    border: 1px solid #cfcdd1;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+.selected-tip{
+    background-color: #dbd0e4;
+    border-color: #552e72;
+}

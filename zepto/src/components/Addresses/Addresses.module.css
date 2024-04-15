@@ -1,0 +1,12 @@
+.addresses-container{
+    /* margin-top: 8; */
+    display: flex;
+    margin: 35px 70px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    margin-top: 120px;
+}
+
+.add-remove-container{
+    width: 75%;
+}

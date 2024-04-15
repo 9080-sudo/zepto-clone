@@ -1,0 +1,29 @@
+.empty-cart{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5f1f7;
+    height: 100vh;
+}
+
+.empty-cart-img{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+}
+
+.description{
+    font-weight: 500;
+    margin: 5px;
+}
+
+.browse-products-link{
+    color: #ff3269;
+    background-color: #ffffff;
+    text-decoration: none;
+    border: 1px solid #ff3269;
+    padding: 8px;
+    border-radius: 5px;
+    margin: 5px;
+}

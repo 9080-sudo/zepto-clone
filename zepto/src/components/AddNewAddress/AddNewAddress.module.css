@@ -1,0 +1,15 @@
+.add-new-address-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.add-btn{
+    background-color: #ff3269;
+    color: #ffffff;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 500;
+    cursor: pointer;
+}

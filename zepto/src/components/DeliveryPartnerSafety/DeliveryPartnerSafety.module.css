@@ -1,0 +1,20 @@
+.delivery-partner-container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0px;
+    box-shadow: 0px 0px 2px gray;
+}
+
+.delivery-partner{
+    height: 50px;
+    width: 85px;
+}
+
+.learn-more{
+    color: #ff386d;
+    cursor: pointer;
+}

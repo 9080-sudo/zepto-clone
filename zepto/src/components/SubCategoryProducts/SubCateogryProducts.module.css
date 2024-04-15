@@ -1,0 +1,15 @@
+.products-container{
+    height: 86vh;
+    overflow: auto;
+}
+
+.products{
+    display: flex;
+    list-style-type: none;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.buy-heading{
+    padding: 15px;
+}

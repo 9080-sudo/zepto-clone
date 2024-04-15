@@ -1,0 +1,70 @@
+.delivery-instructions-container {
+  background-color: #ffffff;
+  width: 620px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 2px gray;
+  margin: 10px 0px;
+}
+
+.notify-description {
+  font-size: 13px;
+  color: #c4bfc6;
+}
+
+.list-of-instructions {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: nowrap;
+  padding: 0px;
+  margin-top: 15px;
+  overflow: auto;
+}
+
+.list-of-instructions::-webkit-scrollbar {
+  display: none; /* WebKit */
+}
+
+.descr-icon {
+  height: 20px;
+  width: 20px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+.instruction {
+  display: flex;
+  align-items: flex-start;
+  padding: 5px;
+  border: 1px solid #bcb7c0;
+  border-radius: 10px;
+  margin-right: 10px;
+  width: 200px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+.instruction-descr {
+  color: #b6b2b9;
+  font-weight: 300;
+  font-size: 13px;
+}
+
+.initiate-description {
+  display: flex;
+  align-items: center;
+  color: #b6b2b9;
+  font-weight: 300;
+  font-size: 13px;
+}
+
+.initiate-image {
+  width: 50px;
+  margin-left: 10px;
+}
+
+.selected-instruction{
+    background-color: #ede7f1;
+    border-color: #a89daf;
+}
